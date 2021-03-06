@@ -9,3 +9,5 @@ Add border to photos in a folder to make them square for instagram yo.
 2. 選擇邊邊的顏色，輸入 white, black, pink 之類的
 3. 然後輸入資料夾名字
 4. 接著會自動把裡面的照片都加上色邊變成正方形，輸出到 output 資料夾
+
+Ref: 旋轉照片是從這邊抄來的 https://stackoverflow.com/questions/4228530/pil-thumbnail-is-rotating-my-image
